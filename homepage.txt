@@ -11,7 +11,7 @@ git remote set-url origin
 
 git pull
 
-python2 jemdoc.py index.jemdoc
+C:\Python27\python jemdoc.py index.jemdoc
 
 git add .
 git commit -m '1'
