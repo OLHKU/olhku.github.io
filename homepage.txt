@@ -17,6 +17,8 @@ git add .
 git commit -m '1'
 git push
 
+https://wordcounter.net/alphabetize
+
 origin: https://github.com/leiyw/leiyw.github.io.git
 branch: master
 Important: do not make an update in a new local folder to avoid conflicts
