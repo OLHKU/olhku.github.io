@@ -11,6 +11,7 @@ git remote set-url origin
 
 git pull
 
+C:\YLei\Conference\homepage
 C:\Python27\python jemdoc.py index.jemdoc
 
 git add .
